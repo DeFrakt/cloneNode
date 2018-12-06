@@ -1,4 +1,4 @@
-#######WorkSpan HomeWork Question 2###########
+
 ###############Steven Yaussi##################
 ######Python 3.6.4 - run.py to execute #######
 
